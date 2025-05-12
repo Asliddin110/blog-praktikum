@@ -1,0 +1,8 @@
+{
+  "/(root)/(home)/page": "app/(root)/(home)/page.js",
+  "/(root)/categories/page": "app/(root)/categories/page.js",
+  "/(root)/categories/[slug]/page": "app/(root)/categories/[slug]/page.js",
+  "/(root)/blogs/page": "app/(root)/blogs/page.js",
+  "/(root)/tags/page": "app/(root)/tags/page.js",
+  "/(root)/about/page": "app/(root)/about/page.js"
+}
